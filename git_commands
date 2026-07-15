@@ -1,4 +1,3 @@
 git init
 git status
 git rm -- cached 
-git push -u origin master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
