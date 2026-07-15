@@ -1,0 +1,129 @@
+<div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-2 col-md-1 col-lg-3 col-xl-2">
+                            <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="offcanvas"
+                                data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar"
+                                aria-label="Toggle navigation">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </button>
+                            <div class="header-middle-logo d-none d-lg-block">
+                                <a class="navbar-brand" href="index.html">
+                                    <img src="assets/img/logo/logo.png" alt="logo">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-8 col-md-8 col-lg-6 col-xl-5">
+                            <div class="mplo">
+                                <div class="micon">
+                                    <a href="javascript:void(0);" class="change_loc set-lo" data-placement="bottom"
+                                        data-togglel-login="popover" data-trigger="manual"
+                                        data-content1="Please login for help &amp; support"
+                                        title="Hi Guest Please Login to See Live Pharmacy near you">
+                                        <span>Hi Guest Please Login to See Live Pharmacy near you</span><i
+                                            class="fa fa-map-marker-alt" aria-hidden="true"></i>
+                                    </a>
+                                </div>
+                            </div>
+ 
+                        </div>
+                        <div class="col-2 col-md-3 col-lg-3 col-xl-5">
+                            <div class="header-middle-right">
+                                <ul class="header-middle-list">
+                                    <li>
+                                        <a href="#" class="list-item">
+                                            <div class="list-item-icon">
+                                                <i class="far fa-user-circle"></i>
+                                            </div>
+                                            <div class="list-item-info">
+                                                <h6>Login / Sign Up</h6>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="list-item">
+                                            <div class="list-item-icon">
+                                                <i class="fa-light fa-gift"></i>
+                                            </div>
+                                            <div class="list-item-info">
+                                                <h6>Offers</h6>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="dropdown-cart">
+                                        <a href="#" class="shop-cart list-item">
+                                            <div class="list-item-icon">
+                                                <i class="fa-regular fa-cart-shopping"></i><span>5</span>
+                                            </div>
+                                            <div class="list-item-info">
+                                                <h6>My Cart</h6>
+                                            </div>
+                                        </a>
+                                        <div class="dropdown-cart-menu">
+                                            <div class="dropdown-cart-header">
+                                                <span>03 Items</span>
+                                                <a href="#">View Cart</a>
+                                            </div>
+                                            <ul class="dropdown-cart-list">
+                                                <li>
+                                                    <div class="dropdown-cart-item">
+                                                        <div class="cart-img">
+                                                            <a href="#"><img src="assets/img/product/01.png"
+                                                                    alt="#"></a>
+                                                        </div>
+                                                        <div class="cart-info">
+                                                            <h4><a href="#">Surgical Face Mask</a></h4>
+                                                            <p class="cart-qty">1x - <span
+                                                                    class="cart-amount">$200.00</span></p>
+                                                        </div>
+                                                        <a href="#" class="cart-remove" title="Remove this item"><i
+                                                                class="far fa-times-circle"></i></a>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="dropdown-cart-item">
+                                                        <div class="cart-img">
+                                                            <a href="#"><img src="assets/img/product/02.png"
+                                                                    alt="#"></a>
+                                                        </div>
+                                                        <div class="cart-info">
+                                                            <h4><a href="#">Surgical Face Mask</a></h4>
+                                                            <p class="cart-qty">1x - <span
+                                                                    class="cart-amount">$120.00</span></p>
+                                                        </div>
+                                                        <a href="#" class="cart-remove" title="Remove this item"><i
+                                                                class="far fa-times-circle"></i></a>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="dropdown-cart-item">
+                                                        <div class="cart-img">
+                                                            <a href="#"><img src="assets/img/product/03.png"
+                                                                    alt="#"></a>
+                                                        </div>
+                                                        <div class="cart-info">
+                                                            <h4><a href="#">Surgical Face Mask</a></h4>
+                                                            <p class="cart-qty">1x - <span
+                                                                    class="cart-amount">$330.00</span></p>
+                                                        </div>
+                                                        <a href="#" class="cart-remove" title="Remove this item"><i
+                                                                class="far fa-times-circle"></i></a>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                            <div class="dropdown-cart-bottom">
+                                                <div class="dropdown-cart-total">
+                                                    <span>Total</span>
+                                                    <span class="total-amount">$650.00</span>
+                                                </div>
+                                                <a href="#" class="theme-btn">Checkout</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+ 
